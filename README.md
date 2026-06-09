@@ -91,17 +91,6 @@ Modern responsive portfolio website showcasing projects, technical skills, acade
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dasuni222&show_icons=true&theme=default" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasuni222&layout=compact" alt="Top Languages"/>
-</p>
-
----
 
 ## 🏆 Academic & Technical Interests
 
