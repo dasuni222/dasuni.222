@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dasuni Navodya Rajapakshe</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Dasuni+Navodya+Rajapakshe" />
+</h1>
+
 
 <h3 align="center">BEng (Hons) Software Engineering Undergraduate | Full-Stack Developer | Tech Enthusiast</h3>
 
@@ -124,7 +127,7 @@ Modern responsive portfolio website showcasing projects, technical skills, acade
 
 💼 LinkedIn: https://www.linkedin.com/in/dasuni-navodya-rajapakshe-74466724b
 
-📧 Email: your-email@example.com
+📧 Email: dasunirajapaksha2002@gmail.com
 
 ---
 
